@@ -5,19 +5,19 @@ You can use this to make videos for your own amusement, or post it where you ple
 # How do I install the dependencies? 
 ## If you are using a Debian-based distribution:
 ```bash
-$ sudo apt update 
-$ sudo apt upgrade
-$ sudo apt install ffmpeg 
-$ sudo apt install jq 
-$ sudo apt install youtube-dl
+sudo apt update 
+ sudo apt upgrade
+ sudo apt install ffmpeg 
+ sudo apt install jq 
+ sudo apt install youtube-dl
 ```
 On other distributions, install the corresponding packages (usually called the same).
 
 # How do I run this?
 
 ```bash
-$ chmod +x videomaker.sh
-$ ./videomaker.sh
+ chmod +x videomaker.sh
+ ./videomaker.sh
 ```
 
 # I want new features! This thing is broken!
